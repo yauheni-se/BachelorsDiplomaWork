@@ -1,2 +1,2 @@
 # BachelorsDiplomaWork
-Diploma work from bahcelor studies
+Graduate diploma work from the bahcelor studies
